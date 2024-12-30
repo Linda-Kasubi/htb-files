@@ -1,2 +1,2 @@
-# htb-files
-This file is the one i have used
+# htb-file
+This file is the one I have used for the Debug Challenge
